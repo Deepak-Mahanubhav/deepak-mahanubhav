@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Mahanubhav</h1>
 <h3 align="center">Software Developer</h3>
+![Data Engineer](https://github.com/user-attachments/assets/5176c477-7577-4ec1-9a6d-826ee3f4f2b6)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
