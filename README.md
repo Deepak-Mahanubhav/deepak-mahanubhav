@@ -1,11 +1,68 @@
-<h1 align="center">Hi 👋, I'm Deepak Mahanubhav</h1>
-<h3 align="center">Software Developer</h3>
-![Data Engineer](https://github.com/user-attachments/assets/5176c477-7577-4ec1-9a6d-826ee3f4f2b6)
+# Hi there! I'm Deepak Mahanubhav 👋
 
+## 🚀 Data Engineer | Python | PySpark | Big Data
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a **Senior Software Engineer** specializing in **Data Engineering** and **Big Data Solutions**. Passionate about building scalable data platforms, optimizing performance, and automating workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 Contact Me
+- 📧 Email: [deepakmahanubhav7@mail.com](mailto:deepakmahanubhav7@mail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-mahanubhav-564681193/)
+
+---
+
+## 🛠 Technical Skills
+- **Programming:** Python, SQL, PySpark, Pandas
+- **Data Engineering:** ETL, Azure Databricks, AWS, Azure
+- **Tools & Platforms:** Git, REST APIs, JAMS Scheduler
+- **Database & Storage:** DynamoDB, SharePoint, S3
+- **Performance Optimization:** Scalable architectures, logging, and validation
+
+---
+
+## 🏆 Work Experience
+### **Senior Software Engineer - Decimal Point Analytics** *(July 2022 – Sep 2024)*
+
+### 🔹 Key Projects
+- **Deal Cloud-Monday Integration:** Saved **$75,000+ annually** by automating workflows with **Databricks, DynamoDB, and REST APIs**.
+- **Document Automation:** Automated SharePoint uploads with Python, reducing manual workload.
+- **Scalable ETL Pipelines:** Designed robust data onboarding solutions with quality checks and validations.
+- **SQL Optimization:** Enhanced CRUD operations for high-performance data processing.
+- **Event-Driven Processing:** Developed an **AWS S3-triggered delta load pipeline**, reducing manual intervention by **50%**.
+- **Containerization:** Deployed Databricks scripts using **containerized solutions** to improve scalability.
+
+---
+
+## 🔍 Core Competencies
+✅ **Data Extraction & Synchronization**  
+✅ **Debugging & Problem-Solving**  
+✅ **Database Optimization & Query Performance**  
+✅ **Job Scheduling & Workflow Automation**  
+✅ **API Development & Python Integrations**  
+
+---
+
+## 📊 Featured Projects
+### **1️⃣ ETL Pipeline with PySpark & Databricks**
+- Built a scalable **ETL pipeline** for large-scale data transformation.
+- Integrated **APIs, AWS S3 storage, and automated logging**.
+
+### **2️⃣ Event-Driven Data Processing**
+- Developed an **S3-triggered event-driven pipeline** for near real-time updates.
+
+### **3️⃣ SQL Performance Optimization**
+- Optimized **complex queries** for high-performance reporting and analytics.
+
+---
+
+## 📚 Education
+- **Bachelor of Engineering (B.E.) in Information Technology**  
+  *Matoshri College of Engineering & Research Center, Nashik (2022) - CGPA: 9.09*
+
+---
+
+## 📌 Let's Connect!
+I'm always open to **collaborations, open-source contributions, and tech discussions**. Feel free to reach out!
+
+---
+
+💡 *"Passionate about transforming raw data into valuable insights!"*
